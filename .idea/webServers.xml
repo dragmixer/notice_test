@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a1e89af-9c99-4634-9f89-fbb32786b9ae" name="Test" url="http://89.34.111.144:81/notice/">
+        <fileTransfer host="89.34.111.144" port="22" rootFolder="/var/www/textPuler/notice/" accessType="SFTP" password="dfebdfd9dfcedfccdfcddfc2df9bdf98df99df9edf9f" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
