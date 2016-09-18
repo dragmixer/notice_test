@@ -1,5 +1,5 @@
 <?php
-
+//попытка конфигурации гита
 class SiteController extends Controller
 {
     public function actionIndex()
